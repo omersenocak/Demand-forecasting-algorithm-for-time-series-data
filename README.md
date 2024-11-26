@@ -1,6 +1,9 @@
 ## Introduction
-There are many demand forecasting systems in different fields. In this study, we will deal with demand forecasting problem in white goods sector. We will examine past years’ data of certain products that have irregular demands. While we are dealing with problem, we use different types of forecasting methods and compare them each other by using different forecasting accuracy metrics. 
-At the same time, we will try to correct the missing data, so that our analysis will become more meaningful. Our goal is to find a meaningful result with one of these methods and thus establish a proper demand forecasting system. By accomplish this we will reduce cost of shipment and stock keeping cost. 
+Demand forecasting is a critical component of decision-making across numerous industries, ensuring efficient inventory management, optimized supply chains, and cost savings. This project focuses on tackling the challenge of demand forecasting in the white goods sector, where certain products exhibit irregular demand patterns.
+
+Using historical sales data, we explore and apply a variety of forecasting methods, comparing their performance using key accuracy metrics. Our approach also addresses missing data issues to improve the quality and reliability of the analysis. By identifying the most effective forecasting model, we aim to design a robust demand forecasting system that minimizes shipment and inventory holding costs while enhancing operational efficiency.
+
+This project not only provides insights into demand trends but also offers a practical framework for solving real-world forecasting problems in industries where demand patterns are highly variable.
 
 ### Forecasting Algorithms:
 1. Moving Average (Simple, Exponential and Double Exponential)
@@ -19,4 +22,4 @@ There are two different types of products named blom1 and blom2. Same code file 
 * Accuracy Test Techniques: RMSE, MAE, MAPE
 
 ### Notes:
-
+You can find more explanations about ARIMA model and parameter selection in 'ARIMA_Minitab_Results' file. 
