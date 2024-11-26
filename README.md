@@ -14,6 +14,9 @@ At the same time, we will try to correct the missing data, so that our analysis 
 
 ### Data set:
 Time series data with 38 months of production, sales and stock level. 
-There are two different types of products named ProductA and ProductB. 
+There are two different types of products named blom1 and blom2. Same code file can be run for both of the products by changing target file name in Demand_Forecasting.R 
 * Validation: %30
 * Accuracy Test Techniques: RMSE, MAE, MAPE
+
+### Notes:
+
